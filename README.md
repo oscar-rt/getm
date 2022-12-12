@@ -1,7 +1,5 @@
-# getm
-Embedded gene and topic modelling for scRNA-seq analysis
-
-# Project Title
+# GETM
+# Embedded gene and topic modelling for scRNA-seq analysis
 
 
 Topic models are gaining attention within the bioinformatics community as a powerful tool that delivers more intuitive data
